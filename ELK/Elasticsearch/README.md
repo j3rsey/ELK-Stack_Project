@@ -10,7 +10,7 @@
 
 ## Installation
 
-This is a normal paragraph:
+
 
     apt  update
     apt  install  -y  openjdk-8-jdk
@@ -19,14 +19,14 @@ This is a normal paragraph:
     apt update
     apt install elasticsearch
     
-end code block.
+
 
 ## Exec
 
-This is a normal paragraph:
+
 
    curl -XGET localhost:9200
    sudo service elasticsearch start
    sudo service elasticsearch status
    
-end code block.
+
