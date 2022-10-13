@@ -4,8 +4,8 @@
 
 ||CPU|MEM|Program|
 |---|---|---|---|
-|우분투|1|1|ElasticSearch, Kibana|
-|우분투|1|1|Logstash|
+|우분투|2|4|ElasticSearch, Kibana|
+|우분투|2|4|Logstash|
 
 
 ## Installation
