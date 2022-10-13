@@ -25,7 +25,7 @@
 
 
 
-   curl -XGET localhost:9200
-   sudo service elasticsearch start
-   sudo service elasticsearch status
+    curl -XGET localhost:9200
+    sudo service elasticsearch start
+    sudo service elasticsearch status
    
